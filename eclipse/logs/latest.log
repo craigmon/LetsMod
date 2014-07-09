@@ -1,0 +1,26 @@
+[16:09:29] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[16:09:29] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[16:09:35] [Server thread/INFO]: Loading properties
+[16:09:35] [Server thread/INFO]: Default game type: SURVIVAL
+[16:09:35] [Server thread/INFO]: Generating keypair
+[16:09:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:09:36] [Server thread/INFO]: Preparing level "world"
+[16:09:36] [Server thread/INFO]: Preparing start region for level 0
+[16:09:37] [Server thread/INFO]: Preparing spawn area: 23%
+[16:09:38] [Server thread/INFO]: Preparing spawn area: 27%
+[16:09:39] [Server thread/INFO]: Preparing spawn area: 33%
+[16:09:40] [Server thread/INFO]: Preparing spawn area: 39%
+[16:09:42] [Server thread/INFO]: Preparing spawn area: 47%
+[16:09:43] [Server thread/INFO]: Preparing spawn area: 57%
+[16:09:44] [Server thread/INFO]: Preparing spawn area: 64%
+[16:09:45] [Server thread/INFO]: Preparing spawn area: 72%
+[16:09:46] [Server thread/INFO]: Preparing spawn area: 81%
+[16:09:47] [Server thread/INFO]: Preparing spawn area: 89%
+[16:09:48] [Server thread/INFO]: Preparing spawn area: 98%
+[16:09:48] [Server thread/INFO]: Done (11.753s)! For help, type "help" or "?"
+[16:10:03] [Server thread/INFO]: Stopping server
+[16:10:03] [Server thread/INFO]: Saving players
+[16:10:03] [Server thread/INFO]: Saving worlds
+[16:10:03] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:10:03] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[16:10:03] [Server thread/INFO]: Saving chunks for level 'world'/The End
